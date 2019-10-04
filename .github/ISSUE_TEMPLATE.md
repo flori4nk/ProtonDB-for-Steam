@@ -11,8 +11,8 @@
 
 ## Details
 Browser:
-[ ] Firefox
-[ ] Chrome
+* [ ] Firefox
+* [ ] Chrome
 
 Browser Version: **insert version**
 Addon Version: **insert version**
