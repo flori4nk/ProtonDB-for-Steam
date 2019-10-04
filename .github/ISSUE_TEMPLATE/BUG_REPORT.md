@@ -1,3 +1,9 @@
+---
+title: 'Bug Report'
+labels: bug
+---
+
+
 ## Expected Behaviour:
 * 
 
@@ -15,4 +21,5 @@ Browser:
 * [ ] Chrome
 
 Browser Version: **insert version**
+
 Addon Version: **insert version**
